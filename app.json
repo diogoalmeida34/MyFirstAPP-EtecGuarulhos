@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "myfirstapp-etecguarulhos",
+    "slug": "snack-1fd061bf-9699-4b4e-b30c-10cfb35e7053",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Primeiro aplicativo para smartphone desenvolvido por mim, desenvolvido com (Node.js).\nConsiste em um aplicativo no qual o usuário insere o seu nome e o aplicativo exibe uma mensagem desejando uma boas vindas à escola com o nome que o usuário inseriu."
+  }
+}
